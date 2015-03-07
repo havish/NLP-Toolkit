@@ -1,0 +1,25 @@
+(np (prp)) 10
+(np (nnp)) 5
+(np (dt nn nn)) 1
+(np (dt nn)) 5
+(np (wdt nn)) 1
+(np (dt nns)) 3
+(np (cd rb)) 2
+(np (dt)) 1
+(np (cd)) 1
+(np (prp nn))
+(np (prp nn pos nn))
+(np (jj nn nn)) 1
+(np (ex)) 2
+
+(vp (vbp)) 10
+(vp (vbz)) 7
+(vp (to vb)) 1
+(vp (md vb)) 1
+(vp (md vp)) 1
+(vp (vb cc vb)) 1
+
+(pp (in np))
+
+
+

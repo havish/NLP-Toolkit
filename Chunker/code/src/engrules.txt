@@ -1,0 +1,42 @@
+S -> NP VP
+NP -> PRP
+VP -> VP PP
+PP -> IN NP
+PP -> TO NP
+NP -> DT NN NN
+NP -> NNP
+VP -> VBZ
+NP -> DT NN
+NP -> DT NNS
+VP -> VBP NP PP
+PP -> IN CD RB
+VP -> TO VB
+VP -> VP S
+VP -> VBP
+VP -> VB
+VP -> VBD
+VP -> VBN
+VP -> MD VP
+VP -> VB CC VB 
+NP -> PRP$ NN NN
+NP -> PRP$ NN 
+NP -> PRP$ NN POS NN
+S -> VP
+VP -> VP NP
+VP -> VP RB VP
+VP -> VP RB RB VP
+VP -> VBG
+NP -> NN
+NP -> NNS
+VP -> VP ADJP
+ADJP -> JJ S
+NP -> NP PP
+NP -> JJ NN NN
+VP -> VP EX
+S -> WP VP
+VP -> VP RB NP
+S -> EX VP
+VP -> VB CD
+S -> WDT NP VP
+S -> DT VP
+ADJP -> JJ

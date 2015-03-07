@@ -1,0 +1,11 @@
+Those_DT are_VBP not_RB pencils_NNS ._.
+Are_VBP those_DT pencils_NNS ?_.
+What_WP are_VBP you_PRP afraid_JJ of_IN ?_.
+How_WRB many_JJ sisters_NNS do_VBP you_PRP have_VB ?_.
+This_DT is_VBZ a_DT book_NN ._.
+Milk_NN is_VBZ good_JJ for_IN you_PRP to_TO eat_VB ._.
+Who_WP are_VBP you_PRP ?_.
+I_PRP 'm_VBP afraid_JJ ._.
+I_PRP have_VBP toothache_NN ._.
+There_EX are_VBP two_CD pencils_NNS in_IN my_PRP$ box_NN ._.
+

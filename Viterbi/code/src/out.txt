@@ -1,0 +1,4 @@
+kapadA<Noun><singular><direct>
+ladakA<Noun><singular><direct>
+kushI<Noun><singular><direct>
+kushI<Noun><singular><oblique>
